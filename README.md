@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy David San José
+# ¡Buenas! 👋 Soy David San José
 
 ## Sobre mí
 
@@ -6,7 +6,7 @@ Después de más de 20 años trabajando en el sector de la automoción como espe
 
 Actualmente estudio el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en UNIR, donde estoy profundizando en el desarrollo de aplicaciones Java, bases de datos y buenas prácticas de programación.
 
-Mi objetivo es realizar las prácticas de DAM a partir de septiembre de 2026 y seguir creciendo como desarrollador Java.
+Mi objetivo es realizar las prácticas de DAM a partir de septiembre de 2026 y seguir creciendo como desarrollador.
 
 ---
 
@@ -60,7 +60,7 @@ Actualmente continúa en desarrollo mientras avanzo en mis estudios.
 
 ## 🎯 Actualmente
 
-- 📖 Cursando 2º de DAM en UNIR
+- 📖 Preparado para cursar 2º de DAM en UNIR
 - 💻 Mejorando mis conocimientos de Java y bases de datos
 - 🚀 Desarrollando Alejandría
 - 📍 Valladolid (España)
