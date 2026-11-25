@@ -43,7 +43,7 @@ Mi objetivo es realizar las prácticas de DAM a partir de septiembre de 2026 y s
 
 ### 📚 Alejandría
 
-Aplicación desarrollada en Java para la gestión de bibliotecas personales.
+Aplicación desarrollada en Java para la gestión de bibliotecas personales. Actualmente está en fase de rediseño adaptando a los nuevos conocimientos y tecnologías que iré aprendiendo durante el segundo curso de DAM.
 
 Tecnologías utilizadas:
 
