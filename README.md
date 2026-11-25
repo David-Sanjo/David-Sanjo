@@ -43,7 +43,7 @@ Mi objetivo es realizar las prácticas de DAM a partir de septiembre de 2026 y s
 
 ### 📚 Alejandría
 
-Aplicación desarrollada en Java para la gestión de bibliotecas personales. Actualmente está en fase de rediseño adaptando a los nuevos conocimientos y tecnologías que iré aprendiendo durante el segundo curso de DAM.
+Aplicación desarrollada en Java para la gestión de bibliotecas personales. 
 
 Tecnologías utilizadas:
 
@@ -54,13 +54,13 @@ Tecnologías utilizadas:
 - CRUD
 - Git
 
-Actualmente continúa en desarrollo mientras avanzo en mis estudios.
+Actualmente está en fase de rediseño adaptando a los nuevos conocimientos y tecnologías aprendidas durante el segundo curso de DAM.
 
 ---
 
 ## 🎯 Actualmente
 
-- 📖 Preparado para cursar 2º de DAM en UNIR
+- 📖 Cursando 2º de DAM en UNIR
 - 💻 Mejorando mis conocimientos de Java y bases de datos
 - 🚀 Desarrollando Alejandría
 - 📍 Valladolid (España)
